@@ -1,0 +1,14 @@
+# RESEARCH DIARY (draft)
+
+This is a plain text file. Or... almost plain.
+In subsequent versions, someone made minor language corrections.
+
+Rules:
+- Don't change the history.
+- Check the differences (diff).
+- Pay attention to end-of-line additions.
+
+Note:
+In the AI ​​lab, sometimes the most important information is hidden in the changes.
+
+TIP: (something will appear here in the future)
