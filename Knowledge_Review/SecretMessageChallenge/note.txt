@@ -11,4 +11,4 @@ Rules:
 Note:
 In the AI ​​lab, sometimes the most important information is hidden in the changes.
 
-TIP: (something will appear here in the future) [READ] [HISTORY] [FILE] [ON]
+TIP: (something will appear here in the future) [READ] [HISTORY] [FILE] [ON][GITHUB]
