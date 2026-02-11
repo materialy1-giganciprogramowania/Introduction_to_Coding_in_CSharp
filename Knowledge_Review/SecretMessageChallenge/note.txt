@@ -5,10 +5,10 @@ In subsequent versions, someone made minor language corrections.
 
 Rules:
 - Don't change the history.
-- Check the differences (diff).
+- Check the differences (diffs) between versions.
 - Pay attention to end-of-line additions.
 
 Note:
 In the AI ​​lab, sometimes the most important information is hidden in the changes.
 
-TIP: (something will appear here in the future)
+TIP: (something will appear here in the future) [READ]
